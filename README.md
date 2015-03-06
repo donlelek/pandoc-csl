@@ -1,6 +1,6 @@
 # pandoc-csl
 
-A Pandoc `csl` style based on Zotero's Generic `bibtex.csl` (<www.zotero.org/styles>).
+A Pandoc `csl` style based on [Zotero's Generic `bibtex.csl`](https://www.zotero.org/styles/bibtex).
 I am currently using this to export citations from my reference manager to markdown documents as inline references as specified in [Rmarkdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
 
 ## Usage
